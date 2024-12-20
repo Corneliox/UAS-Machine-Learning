@@ -41,3 +41,5 @@ We will see if Epoch 12 and Batch 8 was good enough (24/26/30 Is the best (based
 ##### 9.10 PM 
 Its Eror Again heheh, now the problem is on the metrics collection, will try with the best param after this (26)
 
+### 9.15 PM 
+Let's Try Againn !! - Btw, im trying the new Format of readme eheh
