@@ -24,7 +24,8 @@ We Try to use T4, but still have eror on label, and overwhelmed epoch and batch
 Its work, but we got eror label 0, and we found the problem is at 1.0 split data which was "labels" and not "label"
 
 We were gonna fix it tommorow
---- 
+
+---
 ### Desember 20, 2024
 #### Project Progress Update
 Ohohoho..  Heee?? still no labels found? anyway.. its running right now
