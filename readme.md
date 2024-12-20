@@ -50,3 +50,7 @@ Result
 ##### 9.23 PM
 
 Woops E/B = 12/20 is working tho xD, even the GPU Reach peach of 14,4/15 (Very Closeee to error) but it works ehehehh.. Lets wait for the result :D
+
+##### 10.08 
+After several Error i can save all the logs and all T-T i will try for v4 after thiss Wish me Luck!!
+
