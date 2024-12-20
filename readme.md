@@ -1,5 +1,21 @@
-So yeah this just my note on how This Project progress..
+Final Project by YOLO
 ---
+
+So yeah this just my note on how This Project progress..
+
+What we should test using yolo was 
+
+```py
+# Models to train and evaluate
+models = {
+    "YOLOv3": "yolov3.pt",
+    "YOLOv4": "yolov4.pt",
+    "YOLOv5x": "yolov5x.pt",
+    "YOLOv6": "yolov6.pt",
+    "YOLOv7": "yolov7.pt",
+}
+```
+
 ### Desember 18, 2024
 #### Project Progress Update
 I have made some progress on the project, but I still have a lot of work to do.
