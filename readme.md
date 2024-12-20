@@ -51,6 +51,14 @@ Result
 
 Woops E/B = 12/20 is working tho xD, even the GPU Reach peach of 14,4/15 (Very Closeee to error) but it works ehehehh.. Lets wait for the result :D
 
-##### 10.08 
+##### 10.08 PM
 After several Error i can save all the logs and all T-T i will try for v4 after thiss Wish me Luck!!
 
+##### 10.15 PM
+Yolo V4 is Missing Error tho, no models found Yolo V4... and then im trying with Yolo5x
+
+what i found 
+- Yolo5x use E/B = 12/16, its reach peak 15.3/15 GB of GPU RAM before, so yeah
+- If u see the report later, it said it using 15.4 G GPU_mem tho hahahahh, God so Good to me that its nor crashing
+
+Wish me luck so this program can run well
