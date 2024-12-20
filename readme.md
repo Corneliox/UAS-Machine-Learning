@@ -28,3 +28,12 @@ We were gonna fix it tommorow
 ### Desember 20, 2024
 #### Project Progress Update
 Ohohoho..  Heee?? still no labels found? anyway.. its running right now
+
+So.. After tying again.. its our fault that we dont read the YOLO docs.. Which they request the "labels" and not "label" folder.. so its now all fixed
+
+The result of yolo v3 try tonight is 
+
+- System RAM Usage = 7.4 GB
+- GPU RAM Usage is = 9.8 GB - 12 GB
+
+We will see if Epoch 12 and Batch 8 was good enough (24/26/30 Is the best (based on cifar))
