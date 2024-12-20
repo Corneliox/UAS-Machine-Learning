@@ -62,3 +62,11 @@ what i found
 - If u see the report later, it said it using 15.4 G GPU_mem tho hahahahh, God so Good to me that its nor crashing
 
 Wish me luck so this program can run well
+
+##### 10.36 PM 
+YOLO V5x is done with some adjustment before but its fine
+
+##### 11.13 PM 
+Repair the parameter, and now its ready to take the other YOLO... Thnaks GOD its already done.. 
+
+Will continue this project tommorow
