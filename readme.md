@@ -3,7 +3,7 @@ Final Project by YOLO
 
 So yeah this just my note on how This Project progress..
 
-What we should test using yolo was 
+What we should test was 
 
 ```py
 # Models to train and evaluate
