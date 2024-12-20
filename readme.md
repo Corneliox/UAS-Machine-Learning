@@ -43,3 +43,6 @@ Its Eror Again heheh, now the problem is on the metrics collection, will try wit
 
 ### 9.15 PM 
 Let's Try Againn !! - Btw, im trying the new Format of readme eheh
+
+Result 
+- We need larger memory for larger batch sooo, i till try with 20? Lets try, if not work i will just jump into 8
