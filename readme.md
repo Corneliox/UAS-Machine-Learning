@@ -41,8 +41,12 @@ We will see if Epoch 12 and Batch 8 was good enough (24/26/30 Is the best (based
 ##### 9.10 PM 
 Its Eror Again heheh, now the problem is on the metrics collection, will try with the best param after this (26)
 
-### 9.15 PM 
+##### 9.15 PM 
 Let's Try Againn !! - Btw, im trying the new Format of readme eheh
 
 Result 
-- We need larger memory for larger batch sooo, i till try with 20? Lets try, if not work i will just jump into 8
+- We need larger memory for larger batch sooo, i till try with 20? Lets try, if not work i will just jump into 12
+
+##### 9.23 PM
+
+Woops E/B = 12/20 is working tho xD, even the GPU Reach peach of 14,4/15 (Very Closeee to error) but it works ehehehh.. Lets wait for the result :D
