@@ -37,3 +37,7 @@ The result of yolo v3 try tonight is
 - GPU RAM Usage is = 9.8 GB - 12 GB
 
 We will see if Epoch 12 and Batch 8 was good enough (24/26/30 Is the best (based on cifar))
+
+##### 9.10 PM 
+Its Eror Again heheh, now the problem is on the metrics collection, will try with the best param after this (26)
+
