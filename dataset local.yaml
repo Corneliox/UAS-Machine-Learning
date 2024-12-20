@@ -1,0 +1,6 @@
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4  # Number of classes
+names: ["Judul", "Sub-Text", "Actor/Actress", "Subject"]

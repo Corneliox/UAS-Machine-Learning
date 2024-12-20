@@ -1,0 +1,6 @@
+train: /content/drive/My Drive/UAS Machine Learning/train/images
+val: /content/drive/My Drive/UAS Machine Learning/val/images
+test: /content/drive/My Drive/UAS Machine Learning/test/images
+
+nc: 4  # Number of classes
+names: ["Judul", "Sub-Text", "Actor/Actress", "Subject"]
