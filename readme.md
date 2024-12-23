@@ -87,3 +87,92 @@ YOLO V5x is done with some adjustment before but its fine
 Repair the parameter, and now its ready to take the other YOLO... Thnaks GOD its already done.. 
 
 Will continue this project tommorow
+
+--- 
+### Desember 21, 2024
+#### Project Progress Update
+Today we were so busy hahahha, and its only me (Cornel) who available for training
+
+Now its v6 and v7 turn tho heheheh
+
+##### 8.00 PM
+I found that the model is'nt available for 4, 6, and 7..
+
+Summary of available models:
+- yolov8n
+- yolov8s
+- yolov8m
+- yolov8l
+- yolov8x
+- yolov5n
+- yolov5s
+- yolov5m
+- yolov5l
+- yolov5x
+- yolov3
+- yolov3-spp
+- yolov3-tiny
+
+```py
+from ultralytics import YOLO
+
+# Define a list of potential model names to check
+models_to_check = [
+    # YOLOv8 Models
+    "yolov8n", "yolov8s", "yolov8m", "yolov8l", "yolov8x",
+    
+    # YOLOv5 Models
+    "yolov5n", "yolov5s", "yolov5m", "yolov5l", "yolov5x",
+    
+    # YOLOv4 Models
+    "yolov4", "yolov4-csp", "yolov4-p5", "yolov4-p6", "yolov4-p7",
+    
+    # YOLOv3 Models
+    "yolov3", "yolov3-spp", "yolov3-tiny",
+    
+    # YOLOv6 Models
+    "yolov6n", "yolov6s", "yolov6m", "yolov6l",
+    
+    # YOLOv7 Models
+    "yolov7", "yolov7-tiny", "yolov7x",
+]
+
+# List to store available models
+available_models = []
+
+print("Checking available models in Ultralytics...")
+
+# Loop through the model list and test loading
+for model_name in models_to_check:
+    try:
+        YOLO(f"{model_name}.pt")  # Attempt to load the model
+        available_models.append(model_name)
+        print(f"✅ Model available: {model_name}")
+    except Exception as e:
+        print(f"❌ Model not available: {model_name}")
+
+# Summary of results
+print("\nSummary of available models:")
+if available_models:
+    for model in available_models:
+        print(f"- {model}")
+else:
+    print("No models are available.")
+```
+
+So yeah ill jump into... Nah I think i will take a break today hehehe.. Goodnight All, God Bless
+
+###### 8.37 PM 
+There is a major problem happen on logging, which was happen because too many dir, and simply i dont take a look on it, i should remake all the code of logging the data after this hahahah, will update when im done
+
+##### 11.03 PM
+I need RESTTT T-T
+
+---
+### Desember 22, 2024
+#### Project Progress Update
+
+##### 08.00 PM
+Result Exraction Complete via extracting using the `shutil` library
+
+--# Thanks to Raka for the raw Ideas :D
