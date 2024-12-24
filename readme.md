@@ -176,3 +176,8 @@ I need RESTTT T-T
 Result Exraction Complete via extracting using the `shutil` library
 
 --# Thanks to Raka for the raw Ideas :D
+
+--- 
+### Desember 23 - 26,2024
+#### Project Progress Update
+We need a break, need a break from code in the Christmas hehe, Merry Christmas all, God Bless !!
