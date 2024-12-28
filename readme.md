@@ -183,3 +183,29 @@ Result Exraction Complete via extracting using the `shutil` library
 We need a break, need a break from code in the Christmas hehe, Merry Christmas all, God Bless !!
 
 Hohohoh see you tommorow 27 December
+
+---
+### December 28. 2024
+#### Project Progress Update
+It's been a while since our last training, so lets do the training again. By the way its rev.5 Already T-T
+
+##### 9.00 AM 
+I do a minor fix on the logic inside and major reparation for the structure that im use and not. Here's the breakdown
+- Major 
+  - Removing auto extract to Excel and change it into bulk move Format
+
+- Minor 
+  - Moving the batch into front param so the folder name
+  - Removing non esential code (repeated)
+
+##### 9.34 AM
+Its good but what i got from this run was
+- If you put a folder name by `/` in ex. `blabla/bla/bla1`, it will make a folder blabla, then subfolder bla, then subfolder again bla1 T-T
+
+Yeah its good to know tho, rather than i got nothing heheh
+
+##### 9.55
+Oho, its successed, the Folder and subfolder was created succesfully, and then the model was saved hahah, its great to know.. Thanks 
+
+Now lets move to another models :December
+- Yolov3 Done
