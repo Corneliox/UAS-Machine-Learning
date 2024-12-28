@@ -210,3 +210,5 @@ Oho, its successed, the Folder and subfolder was created succesfully, and then t
 Now lets move to another models 😍
 - Yolov3 Done
 
+##### 10.39 am 
+YOLOv8n is done 
