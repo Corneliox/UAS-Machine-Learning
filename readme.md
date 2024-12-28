@@ -204,8 +204,9 @@ Its good but what i got from this run was
 
 Yeah its good to know tho, rather than i got nothing heheh
 
-##### 9.55
+##### 9.55 AM
 Oho, its successed, the Folder and subfolder was created succesfully, and then the model was saved hahah, its great to know.. Thanks 
 
-Now lets move to another models :December
+Now lets move to another models 😍
 - Yolov3 Done
+
