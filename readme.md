@@ -212,3 +212,58 @@ Now lets move to another models 😍
 
 ##### 10.39 am 
 YOLOv8n is done 
+
+### December 31, 2024
+#### Project Progress Update
+
+I just forgot to put the update on all but bassically all code noone was changed since the last chage.. 
+
+the model update was 
+
+```
+Summary of available models:
+
+- yolov8n (Done)
+- yolov8s (Done)
+- yolov8m (Done)
+- yolov8l (Done)
+- yolov8x (Done)
+- yolov5n (Done)
+- yolov5s (Done)
+- yolov5m (Done)
+- yolov5l (Done)
+- yolov5x (done)
+- yolov3 (Done)
+- yolov3u (Done)
+- yolov3-spp (Done)
+- yolov3-tiny (Done)
+
+For More Epoch :
+- yolov3u (100) (Done)
+- yolov5x (100) (Retry)
+- yolov8x (100)Summary of available models:
+
+- yolov8n (Done)
+- yolov8s (Done)
+- yolov8m (Done)
+- yolov8l (Done)
+- yolov8x (Done)
+- yolov5n (Done)
+- yolov5s (Done)
+- yolov5m (Done)
+- yolov5l (Done)
+- yolov5x (done)
+- yolov3 (Done)
+- yolov3u (Done)
+- yolov3-spp (Done)
+- yolov3-tiny (Done)
+
+For More Epoch :
+- yolov3u (100) (Done)
+- yolov5x (100) (Retry)
+- yolov8x (100)
+```
+
+Because lack of Time usage on t4 Collab, i will wait for the next dat maybe at January 01,2025 12.01 PM later
+
+Thats all from me Thanks!!
