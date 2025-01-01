@@ -267,3 +267,18 @@ For More Epoch :
 Because lack of Time usage on t4 Collab, i will wait for the next dat maybe at January 01,2025 12.01 PM later
 
 Thats all from me Thanks!!
+
+### January 1, 2025
+#### Project Progress Update
+Happy new year all !!!!
+
+Sadly The Yolov5x and 8x with 100 epoch just impossible to finished because of exceeded amount of computing unit that needed to finish the training
+Yolo5x stops at 90/100 epoch with 
+
+```
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+     90/100      13.4G     0.6979     0.4756      1.063        159        640:  63%|██████▎   | 12/19 [00:15<00:08,  1.27s/it]
+```
+While YOLOv8x still unknown...
+
+See you later.. Thanks!!
