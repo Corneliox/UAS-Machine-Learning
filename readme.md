@@ -285,6 +285,6 @@ See you later.. Thanks!!
 
 ### January 2, 2025
 #### Project Progress Update
-The Training ened today because the lack of computing units still from yesterday.. Its not moving at all, and its gonna messed up the analytics member (Richard) if im not stopit here.. So lets do Only Analytics today
+The Training ened today because the lack of computing units still from yesterday.. Its not moving at all, and its gonna messed up the analytics member (Richard) if im not stoping it here.. So lets do Only Analytics today
 
 What do we compare (for each models tabbeled vertically)
